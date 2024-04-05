@@ -63,11 +63,14 @@ ul.hlinks{
     margin-bottom: 14px;
 }
 
+
 button{
     background-color: #3882F6;
-    color: #E5E7EB;
     font-weight: bold;
     border: none;
     padding: 5px 9px;
     border-radius: 17px;
+}
+a{
+    color: #E5E7EB;
 }
