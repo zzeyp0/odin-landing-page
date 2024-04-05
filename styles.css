@@ -1,0 +1,29 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    list-style-type: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: #1F2937;
+    color:#F9FAF8;
+    height: 50px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 14%;
+}
+
+.hlogo{
+    font-size: 17px;
+    font-weight: bolder;
+}
+
+ul.hlinks{
+    display: flex;
+    gap: 25px;
+    font-size: 13px;
+}
