@@ -63,7 +63,6 @@ ul.hlinks{
     margin-bottom: 14px;
 }
 
-
 button{
     background-color: #3882F6;
     font-weight: bold;
@@ -74,3 +73,45 @@ button{
 a{
     color: #E5E7EB;
 }
+
+/* THIRD SECTION W IMAGES: */
+.third-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 500px;
+    padding: 0 14%;
+    /* gap: 20px; */
+}
+
+.third-main{
+    font-size: 25px;
+    font-weight: 900;
+    color: #1F2937;
+    /* margin-top: 20px; */
+}
+
+.squares{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.sq img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 17px;
+    border-width: 3px;
+    border: 3px solid #3882F6;
+    margin-bottom: 14px;
+}
+
+.sq .text
+{
+    width: 200px;
+    text-align: center;
+}
+
+/* QUOTE */
