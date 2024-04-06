@@ -68,7 +68,7 @@ button{
     font-weight: bold;
     border: none;
     padding: 5px 9px;
-    border-radius: 17px;
+    border-radius: 10px;
 }
 a{
     color: #E5E7EB;
@@ -95,7 +95,7 @@ a{
 
 .squares{
     display: flex;
-    justify-content: space-between;
+    /* justify-content: space-between; */
     gap: 30px;
 }
 
@@ -122,10 +122,55 @@ a{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 500px;
+    height: 400px;
     padding: 0 14%;
+    gap: 20px;
 
     background-color: #E5E7EB;
-    font-size: 30px;
+    font-size: 27px;
     font-style: italic;
+}
+
+.quote-text{
+    width: 890px;
+    flex: 0 1 auto;
+}
+
+.cite{
+    font-size: 24px;
+    font-weight: bold;
+    font-style: normal;
+    margin: 0 0 0 800px;
+}
+
+/* CALL TO ACTION: */
+.call{
+    background-color: #3882F6;
+    border-radius: 10px;
+    height: 150px;
+    margin: 7% 14%;
+    padding: 0px 75px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.call-main{
+    font-size: 25px;
+    font-weight: bolder;
+    color: #F9FAF8;
+    margin-bottom: 5px;
+}
+.call-sub{
+    color: #E5E7EB;
+}
+
+.call button{
+    color: #F9FAF8;
+    font-size: 20px;
+    font-weight: bold;
+    border: 2px solid #F9FAF8;
+    padding: 5px 14px;
+    border-radius: 10px;
 }
