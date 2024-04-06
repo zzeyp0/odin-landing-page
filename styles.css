@@ -80,16 +80,17 @@ a{
     flex-direction: column;
     justify-content: space-evenly;
     align-items: center;
-    height: 500px;
-    padding: 0 14%;
-    /* gap: 20px; */
+    padding: 3% 14% 7% 14%;
+    height: 400px;
+    /* flex: 0; */
 }
 
 .third-main{
     font-size: 25px;
     font-weight: 900;
     color: #1F2937;
-    /* margin-top: 20px; */
+    height: 55px;
+
 }
 
 .squares{
@@ -112,6 +113,19 @@ a{
 {
     width: 200px;
     text-align: center;
+    font-size: 14px;
 }
 
 /* QUOTE */
+.quote{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    padding: 0 14%;
+
+    background-color: #E5E7EB;
+    font-size: 30px;
+    font-style: italic;
+}

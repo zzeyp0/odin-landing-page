@@ -14,3 +14,7 @@ https://www.pexels.com/photo/green-pine-trees-covered-with-fogs-under-white-sky-
 
 sq-fog2: Stephane Hurbe on Pexels
 https://www.pexels.com/photo/trees-covered-by-fog-4065578/
+
+hamster poem text:
+Tao Lin, "hamsters are heads with little characteristics on the head, part one" from Cognitive-Behavioral Therapy.  Copyright © 2008 by Tao Lin.  Reprinted by permission of Melville House.
+Source: Cognitive-Behavioral Therapy (Melville House, 2008)
